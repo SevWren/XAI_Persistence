@@ -1,0 +1,28 @@
+Todo List for Chat GUI
+
+Next to fix:
+In chat GUI settings, the window shouldn't be wider or taller than all the options.
+Currently there is unused white space. Automatically resize all the elements to the window
+or shrink the window to match the elements.
+
+Next To Add:
+paragraph indentation (left,right,first line)   line spacing, overall text alignment
+Choose font types to use from a list of commonly used fonts
+Choose font size
+
+
+Bugs to fix:
+In chat gui settings, line spacing/line height slider doesn't do anything in preview window
+In chat gui settings, line spacing/line height slider doesn't do anything in chatgui window
+chat gui window shows ai response with the text `AI` instead of the first name of the current persona
+line spacing  (line height) slider does not decrease or increase the spacing between user or ai response messages in chatgui
+Emotes are not shown in the chatgui window with the original emote colors, they are showing as white
+After trying to fix color settings window resize issue, the color settings window defaults to almost no width or no height and after the previous changes that were made, the color settings window is not showing any content at all
+
+Changes to make:
+change the title of the chat gui window to only be the First name of the currently selected persona
+
+
+
+Implement a way for the Cascade (Windsurf) AI to personalize its suggestions based on previous messages
+so that it does not repeat suggestions that have already been confirmed to produce script breaking errors

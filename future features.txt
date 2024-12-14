@@ -1,0 +1,36 @@
+future features:
+
+Other 5 popular additional features we could add:
+
+	Chat History & Session Management
+		save and load chat histories
+		multiple named conversation sessions
+		export chat logs to markdown/PDF
+		search through chat history
+
+	Voice Integration
+		text-to-speech for AI responses
+		voice input for messages
+		voice commands for common actions
+		adjustable voice settings
+
+	Advanced Persona Management
+		live persona switching during chat
+		persona customization interface
+		persona favorites/bookmarks
+		import/export personas
+
+	Enhanced Message Formatting
+		code syntax highlighting
+		LaTeX math rendering
+		image/diagram generation
+		rich text formatting toolbar
+
+	Productivity Tools
+		context-aware auto-complete
+		command shortcuts (like /help, /clear)
+		customizable keyboard shortcuts
+		message templates/snippets
+
+
+Implement a way for the Cascade (Windsurf) AI to learn from user input and adapt its responses

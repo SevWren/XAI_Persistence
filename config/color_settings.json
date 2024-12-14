@@ -1,0 +1,12 @@
+{
+    "DARK_BG": "#1E1E1E",
+    "DARKER_BG": "#252526",
+    "INPUT_BG": "#2D2D2D",
+    "TEXT_COLOR": "#D4D4D4",
+    "BUTTON_BG": "#333333",
+    "BUTTON_ACTIVE": "#404040",
+    "ACCENT": "#007ACC",
+    "USER_MSG_BG": "#333333",
+    "AI_MSG_BG": "#2D2D2D",
+    "TIMESTAMP_COLOR": "#ffffff"
+}
